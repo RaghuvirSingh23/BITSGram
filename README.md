@@ -10,7 +10,7 @@ Raghuvir Singh 2020A7PS2061H
 ## Abstract
 We are building a social media app, named BITSgram. The app will support generic social media functionalities like Posting/Viewing text. We will also include full authentication. The app is built using NodeJS/ExpressJS, ReactJS, and SQL. The main motive of this project is to design an efficient database for handling user data and post data. We can post, delete, and update data in real time in the database. Our app can be used to create a modernized online web of users and can be deployed for real-time use on the campus. Regarding the security of the web app, we plan on protecting it against SQL injection attacks and other authentication loopholes. Concluding, we think the app can be deployed for full-time use across the campus. 
 
-##Functionalities supported:
+## Functionalities supported:
 
 ●	Upload/download posts.
 ●	Authentication
@@ -23,7 +23,7 @@ We are building a social media app, named BITSgram. The app will support generic
 ●	Chat between various users.
 ●	Secure to SQL Injections due to filtering of posts, users, and passwords.
 
-##Tech Stack
+## Tech Stack
 
 Node js - Node.js is a server environment. Node.js uses JavaScript on the server. 
 
